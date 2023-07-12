@@ -1,0 +1,7 @@
+{
+  "headless" : false,
+  "baseUrl": "https://demoqa.com",
+  "explicitWait": "30",
+  "language": "en",
+  "browser": "chrome"
+}
